@@ -1,0 +1,1317 @@
+[
+    {
+        "productId": "F1001",
+        "name": "Áo Sơ Mi Nam Cotton Slim Fit",
+        "category": {
+            "categoryId": "m001",
+            "name": "Nam",
+            "imageUrl": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=400&h=300&fit=crop"
+        },
+        "description": "Áo sơ mi cotton thoáng khí, dáng slim fit phù hợp cho cả trang phục thường ngày và công sở.",
+        "price": 450000,
+        "imageUrl": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=500&h=500&fit=crop",
+        "stockQuantity": 130,
+        "rating": 4.3,
+        "reviewCount": 48,
+        "reviews": [
+            {
+                "reviewId": "FR1001",
+                "productId": "F1001",
+                "userId": "U3001",
+                "userName": "Nguyễn Minh An",
+                "userAvatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=100&h=100&fit=crop",
+                "content": "Áo sơ mi chất lượng tốt, vải cotton mềm mại và thoáng khí. Thiết kế slim fit rất hợp với dáng người. Tôi rất hài lòng với sản phẩm này.",
+                "rating": 4.0,
+                "date": "2024-01-10T10:30:00Z",
+                "images": [
+                    "https://images.unsplash.com/photo-1603251578711-1e0268d166f3?w=500&h=500&fit=crop"
+                ],
+                "isVerifiedPurchase": true
+            },
+            {
+                "reviewId": "FR1002",
+                "productId": "F1001",
+                "userId": "U3002",
+                "userName": "Trần Thanh Hải",
+                "userAvatar": null,
+                "content": "Size vừa vặn, màu sắc đẹp. Giao hàng nhanh. Sẽ mua thêm màu khác.",
+                "rating": 5.0,
+                "date": "2024-01-15T14:20:00Z",
+                "images": null,
+                "isVerifiedPurchase": true
+            },
+            {
+                "reviewId": "FR1003",
+                "productId": "F1001",
+                "userId": "U3003",
+                "userName": "Lê Thị Mai",
+                "userAvatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop",
+                "content": "Mua tặng chồng, anh ấy rất thích. Chất vải tốt, không nhăn sau khi giặt.",
+                "rating": 4.5,
+                "date": "2024-01-20T09:15:00Z",
+                "images": [
+                    "https://images.unsplash.com/photo-1603251578711-1e0268d166f3?w=500&h=500&fit=crop"
+                ],
+                "isVerifiedPurchase": true
+            }
+        ],
+        "isAvailable": true,
+        "tags": [
+            "áo sơ mi",
+            "cotton",
+            "slim fit",
+            "thời trang nam"
+        ],
+        "colors": [
+            "Trắng",
+            "Xanh Navy",
+            "Đen"
+        ],
+        "clothingSizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "images": [
+            "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=500&h=500&fit=crop",
+            "https://images.unsplash.com/photo-1603251578711-1e0268d166f3?w=500&h=500&fit=crop"
+        ],
+        "brand": "StyleMan",
+        "manufacturer": "StyleMan Apparel",
+        "origin": "Bangladesh",
+        "dimensions": null,
+        "weight": null,
+        "material": "100% Cotton",
+        "videoUrl": null,
+        "barcode": "F100100001",
+        "productType": "Áo Sơ Mi Nam",
+        "returnPolicy": "Đổi trả trong 30 ngày kèm tag",
+        "discount": 15.0
+    },
+    {
+        "productId": "F1002",
+        "name": "Váy Hoa Mùa Hè",
+        "category": {
+            "categoryId": "wm001",
+            "name": "Nữ",
+            "imageUrl": "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=400&h=300&fit=crop"
+        },
+        "description": "Váy mùa hè nhẹ nhàng với họa tiết hoa, thiết kế hoàn hảo cho các chuyến du lịch.",
+        "price": 650000,
+        "imageUrl": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=600&fit=crop",
+        "stockQuantity": 95,
+        "rating": 4.7,
+        "reviewCount": 76,
+        "reviews": [
+            {
+                "reviewId": "FR1004",
+                "productId": "F1002",
+                "userId": "U3004",
+                "userName": "Phạm Thị Lan",
+                "userAvatar": "https://images.unsplash.com/photo-1517841903204-33b7b0c15939?w=100&h=100&fit=crop",
+                "content": "Váy xinh quá! Họa tiết hoa rất dễ thương, vải mỏng nhẹ phù hợp mùa hè. Size vừa vặn.",
+                "rating": 5.0,
+                "date": "2024-02-15T16:45:00Z",
+                "images": [
+                    "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=600&fit=crop"
+                ],
+                "isVerifiedPurchase": true
+            },
+            {
+                "reviewId": "FR1005",
+                "productId": "F1002",
+                "userId": "U3005",
+                "userName": "Đỗ Thị Hương",
+                "userAvatar": null,
+                "content": "Chất vải tốt, thiết kế đẹp. Mặc đi chơi rất phù hợp. Giao hàng nhanh!",
+                "rating": 4.5,
+                "date": "2024-02-20T11:30:00Z",
+                "images": null,
+                "isVerifiedPurchase": true
+            }
+        ],
+        "isAvailable": true,
+        "tags": [
+            "váy",
+            "họa tiết hoa",
+            "mùa hè",
+            "thời trang nữ"
+        ],
+        "colors": [
+            "Hồng",
+            "Xanh Nhạt"
+        ],
+        "clothingSizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "images": [
+            "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=600&fit=crop",
+            "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=500&h=600&fit=crop"
+        ],
+        "brand": "FemmeStyle",
+        "manufacturer": "FemmeStyle Clothing",
+        "origin": "India",
+        "dimensions": null,
+        "weight": null,
+        "material": "Vải Polyester",
+        "videoUrl": null,
+        "barcode": "F100200002",
+        "productType": "Váy Nữ",
+        "returnPolicy": "Đổi trả trong 30 ngày",
+        "discount": 20.0
+    },
+    {
+        "productId": "F1003",
+        "name": "Thắt Lưng Da Nam",
+        "category": {
+            "categoryId": "m001",
+            "name": "Nam",
+            "imageUrl": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=400&h=300&fit=crop"
+        },
+        "description": "Thắt lưng da thật với khóa kim loại đánh bóng, thiết kế sang trọng.",
+        "price": 500000,
+        "imageUrl": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500&h=400&fit=crop",
+        "stockQuantity": 200,
+        "rating": 4.5,
+        "reviewCount": 54,
+        "reviews": [
+            {
+                "reviewId": "FR1006",
+                "productId": "F1003",
+                "userId": "U3006",
+                "userName": "Đặng Văn Hùng",
+                "userAvatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&h=100&fit=crop",
+                "content": "Thắt lưng da thật chất lượng cao, khóa kim loại bền đẹp. Size vừa vặn, rất hài lòng với sản phẩm.",
+                "rating": 5.0,
+                "date": "2024-03-03T15:45:00Z",
+                "images": [
+                    "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500&h=400&fit=crop"
+                ],
+                "isVerifiedPurchase": true
+            }
+        ],
+        "isAvailable": true,
+        "tags": [
+            "thắt lưng",
+            "da thật",
+            "thời trang nam",
+            "phụ kiện"
+        ],
+        "colors": [
+            "Đen",
+            "Nâu"
+        ],
+        "accessorySizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "images": [
+            "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500&h=400&fit=crop"
+        ],
+        "brand": "LeatherCraft",
+        "manufacturer": "LeatherCraft Co.",
+        "origin": "Italy",
+        "dimensions": null,
+        "weight": "300g",
+        "material": "Da Thật",
+        "videoUrl": null,
+        "barcode": "F100300003",
+        "productType": "Thắt Lưng",
+        "returnPolicy": "Đổi trả trong 30 ngày",
+        "discount": 10.0
+    },
+    {
+        "productId": "F1004",
+        "name": "Quần Jean Nữ Dáng Classic",
+        "category": {
+            "categoryId": "wm001",
+            "name": "Nữ",
+            "imageUrl": "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=400&h=300&fit=crop"
+        },
+        "description": "Quần jean nữ dáng classic với vải co giãn cao, thoải mái khi mặc.",
+        "price": 550000,
+        "imageUrl": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=500&h=600&fit=crop",
+        "stockQuantity": 80,
+        "rating": 4.6,
+        "reviewCount": 97,
+        "reviews": [
+            {
+                "reviewId": "FR1007",
+                "productId": "F1004",
+                "userId": "U3007",
+                "userName": "Nguyễn Thị Linh",
+                "userAvatar": "https://images.unsplash.com/photo-1517841903204-33b7b0c15939?w=100&h=100&fit=crop",
+                "content": "Quần jean rất đẹp và chất lượng! Vải co giãn tốt, mặc rất thoải mái. Size chuẩn, form dáng đẹp.",
+                "rating": 5.0,
+                "date": "2024-04-12T16:30:00Z",
+                "images": [
+                    "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=500&h=600&fit=crop"
+                ],
+                "isVerifiedPurchase": true
+            },
+            {
+                "reviewId": "FR1008",
+                "productId": "F1004",
+                "userId": "U3008",
+                "userName": "Trần Văn Nam",
+                "userAvatar": null,
+                "content": "Mua tặng vợ, cô ấy rất thích. Chất denim tốt, không phai màu sau khi giặt.",
+                "rating": 4.5,
+                "date": "2024-04-18T11:45:00Z",
+                "images": null,
+                "isVerifiedPurchase": true
+            },
+            {
+                "reviewId": "FR1009",
+                "productId": "F1004",
+                "userId": "U3009",
+                "userName": "Lê Thị Hoa",
+                "userAvatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop",
+                "content": "Sản phẩm tốt nhưng size hơi nhỏ so với mô tả. Nên chọn size lớn hơn một chút.",
+                "rating": 4.0,
+                "date": "2024-04-25T14:20:00Z",
+                "images": null,
+                "isVerifiedPurchase": true
+            },
+            {
+                "reviewId": "FR1010",
+                "productId": "F1004",
+                "userId": "U3010",
+                "userName": "Phạm Minh Tuấn",
+                "userAvatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&h=100&fit=crop",
+                "content": "Chất lượng tuyệt vời! Đúng như mô tả. Giao hàng nhanh. Sẽ ủng hộ shop lần sau.",
+                "rating": 5.0,
+                "date": "2024-05-02T09:30:00Z",
+                "images": [
+                    "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=500&h=600&fit=crop"
+                ],
+                "isVerifiedPurchase": true
+            }
+        ],
+        "isAvailable": true,
+        "tags": [
+            "quần jean",
+            "denim",
+            "nữ",
+            "quần dài"
+        ],
+        "colors": [
+            "Xanh Denim",
+            "Đen"
+        ],
+        "waistSizes": [
+            "28",
+            "30",
+            "32",
+            "34"
+        ],
+        "images": [
+            "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=500&h=600&fit=crop",
+            "https://images.unsplash.com/photo-1584865288642-42078c15fd33?w=500&h=600&fit=crop"
+        ],
+        "brand": "DenimStar",
+        "manufacturer": "DenimStar Ltd.",
+        "origin": "USA",
+        "dimensions": null,
+        "weight": null,
+        "material": "98% Cotton, 2% Spandex",
+        "videoUrl": null,
+        "barcode": "F100400004",
+        "productType": "Quần Jean",
+        "returnPolicy": "Đổi trả trong 30 ngày",
+        "discount": 25.0
+    },
+    {
+        "productId": "F1005",
+        "name": "Áo Hoodie Unisex In Hình",
+        "category": {
+            "categoryId": "fs001",
+            "name": "Thời Trang",
+            "imageUrl": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=400&h=300&fit=crop"
+        },
+        "description": "Áo hoodie vải nỉ mềm với họa tiết in độc đáo, kiểu dáng unisex thoải mái.",
+        "price": 400000,
+        "imageUrl": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&h=500&fit=crop",
+        "stockQuantity": 150,
+        "rating": 4.2,
+        "reviewCount": 112,
+        "reviews": [
+            {
+                "reviewId": "FR1005",
+                "productId": "F1005",
+                "userId": "U3005",
+                "userName": "Nguyễn Văn Hùng",
+                "userAvatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=100&h=100&fit=crop",
+                "content": "Áo hoodie ấm và phong cách, rất thích hợp cho thời tiết se lạnh.",
+                "rating": 4.0,
+                "date": "2024-04-05T10:00:00Z",
+                "images": [
+                    "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&h=500&fit=crop"
+                ],
+                "isVerifiedPurchase": true
+            }
+        ],
+        "isAvailable": true,
+        "tags": [
+            "hoodie",
+            "unisex",
+            "in hình",
+            "thời trang"
+        ],
+        "colors": [
+            "Xám",
+            "Đen",
+            "Xanh Navy"
+        ],
+        "clothingSizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "images": [
+            "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&h=500&fit=crop",
+            "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=500&h=500&fit=crop"
+        ],
+        "brand": "UrbanThreads",
+        "manufacturer": "UrbanThreads Apparel",
+        "origin": "China",
+        "dimensions": null,
+        "weight": null,
+        "material": "Vải Nỉ Cotton",
+        "videoUrl": null,
+        "barcode": "F100500005",
+        "productType": "Áo Hoodie",
+        "returnPolicy": "Đổi trả trong 30 ngày",
+        "discount": 10.0
+    },
+    {
+        "productId": "F1006",
+        "name": "Áo Vest Nam Công Sở",
+        "category": {
+            "categoryId": "m001",
+            "name": "Nam",
+            "imageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=300&fit=crop"
+        },
+        "description": "Áo vest nam công sở thanh lịch, dáng slim fit được chế tác từ vải cao cấp.",
+        "price": 1200000,
+        "imageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=600&fit=crop",
+        "stockQuantity": 60,
+        "rating": 4.8,
+        "reviewCount": 42,
+        "reviews": [
+            {
+                "reviewId": "FR1006",
+                "productId": "F1006",
+                "userId": "U3006",
+                "userName": "Lê Văn Tùng",
+                "userAvatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&h=100&fit=crop",
+                "content": "Vest rất đẹp, chất vải cao cấp, mặc rất thoải mái và chuyên nghiệp.",
+                "rating": 5.0,
+                "date": "2024-03-29T12:00:00Z",
+                "images": [
+                    "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=600&fit=crop"
+                ],
+                "isVerifiedPurchase": true
+            }
+        ],
+        "isAvailable": true,
+        "tags": [
+            "blazer",
+            "formal",
+            "menswear",
+            "jacket"
+        ],
+        "colors": [
+            "Black",
+            "Navy"
+        ],
+        "clothingSizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "images": [
+            "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=600&fit=crop",
+            "https://images.unsplash.com/photo-1593030103066-01c9cc0b6b38?w=500&h=600&fit=crop"
+        ],
+        "brand": "TailoredLook",
+        "manufacturer": "TailoredLook Garments",
+        "origin": "Italy",
+        "dimensions": null,
+        "weight": null,
+        "material": "Polyester Blend",
+        "videoUrl": null,
+        "barcode": "F100600006",
+        "productType": "Blazer",
+        "returnPolicy": "7 days return",
+        "discount": 5.0
+    },
+    {
+        "productId": "F1007",
+        "name": "Túi Xách Da Nữ",
+        "category": {
+            "categoryId": "wm001",
+            "name": "Nữ",
+            "imageUrl": "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=400&h=300&fit=crop"
+        },
+        "description": "Túi xách da thật thời trang với dây đeo điều chỉnh được.",
+        "price": 1500000,
+        "imageUrl": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=500&h=500&fit=crop",
+        "stockQuantity": 73,
+        "rating": 4.9,
+        "reviewCount": 67,
+        "reviews": [
+            {
+                "reviewId": "FR1007",
+                "productId": "F1007",
+                "userId": "U3007",
+                "userName": "Nguyễn Thị Mai",
+                "userAvatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop",
+                "content": "Túi xách da rất đẹp, chất lượng cao, thiết kế sang trọng.",
+                "rating": 5.0,
+                "date": "2024-02-18T14:00:00Z",
+                "images": [
+                    "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=500&h=500&fit=crop"
+                ],
+                "isVerifiedPurchase": true
+            }
+        ],
+        "isAvailable": true,
+        "tags": [
+            "handbag",
+            "leather",
+            "women",
+            "accessories"
+        ],
+        "colors": [
+            "Brown",
+            "Black"
+        ],
+        "images": [
+            "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=500&h=500&fit=crop",
+            "https://images.unsplash.com/photo-1590735247318-b8e849e2e7b6?w=500&h=500&fit=crop"
+        ],
+        "brand": "Elegance",
+        "manufacturer": "Elegance Leatherworks",
+        "origin": "Spain",
+        "dimensions": "30cm x 20cm x 12cm",
+        "weight": "600g",
+        "material": "Genuine Leather",
+        "videoUrl": null,
+        "barcode": "F100700007",
+        "productType": "Handbag",
+        "returnPolicy": "30 days return",
+        "discount": 0.0
+    },
+    {
+        "productId": "F1008",
+        "name": "Giày Sneakers Unisex",
+        "category": {
+            "categoryId": "fs001",
+            "name": "Thời Trang",
+            "imageUrl": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=400&h=300&fit=crop"
+        },
+        "description": "Giày sneakers nhẹ, thoải mái cho sử dụng hàng ngày.",
+        "price": 800000,
+        "imageUrl": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=500&h=400&fit=crop",
+        "stockQuantity": 120,
+        "rating": 4.4,
+        "reviewCount": 80,
+        "reviews": [
+            {
+                "reviewId": "FR1008",
+                "productId": "F1008",
+                "userId": "U3008",
+                "userName": "Trần Văn Long",
+                "userAvatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=100&h=100&fit=crop",
+                "content": "Giày nhẹ, thoải mái, thiết kế đẹp, phù hợp với nhiều trang phục.",
+                "rating": 4.0,
+                "date": "2024-03-10T09:00:00Z",
+                "images": [
+                    "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=500&h=400&fit=crop"
+                ],
+                "isVerifiedPurchase": true
+            }
+        ],
+        "isAvailable": true,
+        "tags": [
+            "sneakers",
+            "unisex",
+            "casual",
+            "shoes"
+        ],
+        "colors": [
+            "White",
+            "Grey",
+            "Black"
+        ],
+        "shoeSizes": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44"
+        ],
+        "images": [
+            "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=500&h=400&fit=crop",
+            "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500&h=400&fit=crop"
+        ],
+        "brand": "StepUp",
+        "manufacturer": "StepUp Footwear",
+        "origin": "Vietnam",
+        "dimensions": null,
+        "weight": null,
+        "material": "Synthetic Leather",
+        "videoUrl": null,
+        "barcode": "F100800008",
+        "productType": "Sneakers",
+        "returnPolicy": "30 days",
+        "discount": 15.0
+    },
+    {
+        "productId": "F1009",
+        "name": "Khăn Quàng Len Mùa Đông",
+        "category": {
+            "categoryId": "fs001",
+            "name": "Thời Trang",
+            "imageUrl": "https://images.unsplash.com/photo-1520903920243-00d872a2d1c9?w=400&h=300&fit=crop"
+        },
+        "description": "Khăn len ấm áp lý tưởng cho những ngày đông lạnh giá.",
+        "price": 250000,
+        "imageUrl": "https://images.unsplash.com/photo-1520903920243-00d872a2d1c9?w=500&h=400&fit=crop",
+        "stockQuantity": 140,
+        "rating": 4.5,
+        "reviewCount": 39,
+        "reviews": [
+            {
+                "reviewId": "FR1009",
+                "productId": "F1009",
+                "userId": "U3009",
+                "userName": "Phạm Thị Ngọc",
+                "userAvatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop",
+                "content": "Khăn len rất ấm, chất liệu mềm mại, màu sắc đẹp.",
+                "rating": 5.0,
+                "date": "2024-01-22T11:00:00Z",
+                "images": [
+                    "https://images.unsplash.com/photo-1520903920243-00d872a2d1c9?w=500&h=400&fit=crop"
+                ],
+                "isVerifiedPurchase": true
+            }
+        ],
+        "isAvailable": true,
+        "tags": [
+            "scarf",
+            "woolen",
+            "winter",
+            "accessories"
+        ],
+        "colors": [
+            "Red",
+            "Grey",
+            "Dark Blue"
+        ],
+        "images": [
+            "https://images.unsplash.com/photo-1520903920243-00d872a2d1c9?w=500&h=400&fit=crop"
+        ],
+        "brand": "CozyWear",
+        "manufacturer": "CozyWear Ltd.",
+        "origin": "Nepal",
+        "dimensions": "180cm x 25cm",
+        "weight": null,
+        "material": "100% Wool",
+        "videoUrl": null,
+        "barcode": "F100900009",
+        "productType": "Scarf",
+        "returnPolicy": "30 days",
+        "discount": 10.0
+    },
+    {
+        "productId": "F1010",
+        "name": "Quần Short Thể Thao",
+        "category": {
+            "categoryId": "fs001",
+            "name": "Thời Trang",
+            "imageUrl": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=300&fit=crop"
+        },
+        "description": "Quần short thể thao thoáng khí và nhẹ với dây thắt lưng co giãn.",
+        "price": 300000,
+        "imageUrl": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=500&h=500&fit=crop",
+        "stockQuantity": 180,
+        "rating": 4.6,
+        "reviewCount": 70,
+        "reviews": [
+            {
+                "reviewId": "FR1010",
+                "productId": "F1010",
+                "userId": "U3010",
+                "userName": "Lê Văn Hoàng",
+                "userAvatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&h=100&fit=crop",
+                "content": "Quần short rất thoải mái, phù hợp cho tập gym và chạy bộ.",
+                "rating": 5.0,
+                "date": "2024-03-25T15:00:00Z",
+                "images": [
+                    "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=500&h=500&fit=crop"
+                ],
+                "isVerifiedPurchase": true
+            }
+        ],
+        "isAvailable": true,
+        "tags": [
+            "shorts",
+            "running",
+            "activewear"
+        ],
+        "colors": [
+            "Black",
+            "Navy",
+            "Grey"
+        ],
+        "clothingSizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "images": [
+            "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=500&h=500&fit=crop"
+        ],
+        "brand": "ActivePro",
+        "manufacturer": "ActivePro Sportswear",
+        "origin": "Bangladesh",
+        "dimensions": null,
+        "weight": null,
+        "material": "Polyester Mesh",
+        "videoUrl": null,
+        "barcode": "F101000010",
+        "productType": "Activewear Shorts",
+        "returnPolicy": "30 days",
+        "discount": 20.0
+    },
+    {
+        "productId": "F1011",
+        "name": "Áo Polo Nam Classic",
+        "category": {
+            "categoryId": "m001",
+            "name": "Nam",
+            "imageUrl": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=400&h=300&fit=crop"
+        },
+        "description": "Áo polo cotton mềm mại với cổ và tay áo gân.",
+        "price": 350000,
+        "imageUrl": "https://images.unsplash.com/photo-1581803118522-7b72a50f7e9f?w=500&h=500&fit=crop",
+        "stockQuantity": 110,
+        "rating": 4.4,
+        "reviewCount": 54,
+        "reviews": [
+            {
+                "reviewId": "FR1011",
+                "productId": "F1011",
+                "userId": "U3011",
+                "userName": "Trần Văn Minh",
+                "userAvatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=100&h=100&fit=crop",
+                "content": "Áo polo chất lượng tốt, mặc mát, phù hợp cho cả đi làm và đi chơi.",
+                "rating": 4.0,
+                "date": "2024-02-08T10:00:00Z",
+                "images": [
+                    "https://images.unsplash.com/photo-1581803118522-7b72a50f7e9f?w=500&h=500&fit=crop"
+                ],
+                "isVerifiedPurchase": true
+            }
+        ],
+        "isAvailable": true,
+        "tags": [
+            "polo shirt",
+            "menswear",
+            "cotton"
+        ],
+        "colors": [
+            "White",
+            "Navy",
+            "Red"
+        ],
+        "clothingSizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "images": [
+            "https://images.unsplash.com/photo-1581803118522-7b72a50f7e9f?w=500&h=500&fit=crop",
+            "https://images.unsplash.com/photo-1593030103066-01c9cc0b6b38?w=500&h=500&fit=crop"
+        ],
+        "brand": "UrbanStyle",
+        "manufacturer": "UrbanStyle Apparel",
+        "origin": "China",
+        "dimensions": null,
+        "weight": null,
+        "material": "100% Cotton",
+        "videoUrl": null,
+        "barcode": "F100100011",
+        "productType": "Men's Polo Shirt",
+        "returnPolicy": "30 days",
+        "discount": 15.0
+    },
+    {
+        "productId": "F1012",
+        "name": "Chân Váy Maxi Nữ",
+        "category": {
+            "categoryId": "wm001",
+            "name": "Nữ",
+            "imageUrl": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=400&h=300&fit=crop"
+        },
+        "description": "Chân váy maxi bay bổng với dây thắt lưng co giãn và họa tiết rực rỡ.",
+        "price": 450000,
+        "imageUrl": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=500&h=600&fit=crop",
+        "stockQuantity": 85,
+        "rating": 4.3,
+        "reviewCount": 44,
+        "reviews": [
+            {
+                "reviewId": "FR1012",
+                "productId": "F1012",
+                "userId": "U3012",
+                "userName": "Phạm Thị Hiền",
+                "userAvatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop",
+                "content": "Chân váy maxi rất đẹp, vải nhẹ, mặc thoải mái, phù hợp đi biển.",
+                "rating": 4.0,
+                "date": "2024-03-18T13:00:00Z",
+                "images": [
+                    "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=500&h=600&fit=crop"
+                ],
+                "isVerifiedPurchase": true
+            }
+        ],
+        "isAvailable": true,
+        "tags": [
+            "maxi skirt",
+            "women",
+            "fashion"
+        ],
+        "colors": [
+            "Blue",
+            "Multicolor"
+        ],
+        "clothingSizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "images": [
+            "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=500&h=600&fit=crop",
+            "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=600&fit=crop"
+        ],
+        "brand": "ChicWear",
+        "manufacturer": "ChicWear Fashion",
+        "origin": "Indonesia",
+        "dimensions": null,
+        "weight": null,
+        "material": "Rayon",
+        "videoUrl": null,
+        "barcode": "F101100012",
+        "productType": "Skirt",
+        "returnPolicy": "30 days",
+        "discount": 10.0
+    },
+    {
+        "productId": "F1013",
+        "name": "Áo Hoodie Nam Thường Ngày",
+        "category": {
+            "categoryId": "m001",
+            "name": "Nam",
+            "imageUrl": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=400&h=300&fit=crop"
+        },
+        "description": "Áo hoodie thường ngày thoải mái với túi kangaroo.",
+        "price": 400000,
+        "imageUrl": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=500&h=500&fit=crop",
+        "stockQuantity": 140,
+        "rating": 4.1,
+        "reviewCount": 61,
+        "reviews": [
+            {
+                "reviewId": "FR1013",
+                "productId": "F1013",
+                "userId": "U3013",
+                "userName": "Nguyễn Văn Huy",
+                "userAvatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=100&h=100&fit=crop",
+                "content": "Áo hoodie chất vải tốt, nhưng size hơi nhỏ so với kỳ vọng.",
+                "rating": 4.0,
+                "date": "2024-04-10T14:00:00Z",
+                "images": [
+                    "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=500&h=500&fit=crop"
+                ],
+                "isVerifiedPurchase": true
+            }
+        ],
+        "isAvailable": true,
+        "tags": [
+            "hoodie",
+            "menswear",
+            "casual"
+        ],
+        "colors": [
+            "Black",
+            "Dark Grey"
+        ],
+        "clothingSizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "images": [
+            "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=500&h=500&fit=crop",
+            "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&h=500&fit=crop"
+        ],
+        "brand": "CasualLook",
+        "manufacturer": "CasualLook Clothing",
+        "origin": "Bangladesh",
+        "dimensions": null,
+        "weight": null,
+        "material": "Cotton Blend",
+        "videoUrl": null,
+        "barcode": "F100500013",
+        "productType": "Hoodie",
+        "returnPolicy": "30 days",
+        "discount": 15.0
+    },
+    {
+        "productId": "F1014",
+        "name": "Khăn Lụa Nữ",
+        "category": {
+            "categoryId": "wm001",
+            "name": "Nữ",
+            "imageUrl": "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=400&h=300&fit=crop"
+        },
+        "description": "Khăn lụa thanh lịch với họa tiết viền hoa.",
+        "price": 300000,
+        "imageUrl": "https://images.unsplash.com/photo-1601924994987-69e26d50dc26?w=500&h=400&fit=crop",
+        "stockQuantity": 90,
+        "rating": 4.7,
+        "reviewCount": 34,
+        "reviews": [
+            {
+                "reviewId": "FR1014",
+                "productId": "F1014",
+                "userId": "U3014",
+                "userName": "Lê Thị Hồng",
+                "userAvatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop",
+                "content": "Khăn lụa mềm mại, họa tiết đẹp, rất hợp để phối đồ.",
+                "rating": 5.0,
+                "date": "2024-02-12T12:00:00Z",
+                "images": [
+                    "https://images.unsplash.com/photo-1601924994987-69e26d50dc26?w=500&h=400&fit=crop"
+                ],
+                "isVerifiedPurchase": true
+            }
+        ],
+        "isAvailable": true,
+        "tags": [
+            "scarf",
+            "silk",
+            "women",
+            "fashion"
+        ],
+        "colors": [
+            "Red",
+            "Cream"
+        ],
+        "images": [
+            "https://images.unsplash.com/photo-1601924994987-69e26d50dc26?w=500&h=400&fit=crop"
+        ],
+        "brand": "SilkLine",
+        "manufacturer": "SilkLine Textiles",
+        "origin": "France",
+        "dimensions": "180cm x 30cm",
+        "weight": null,
+        "material": "Silk",
+        "videoUrl": null,
+        "barcode": "F100900014",
+        "productType": "Scarf",
+        "returnPolicy": "30 days",
+        "discount": 5.0
+    },
+    {
+        "productId": "F1015",
+        "name": "Quần Chino Nam",
+        "category": {
+            "categoryId": "m001",
+            "name": "Nam",
+            "imageUrl": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=400&h=300&fit=crop"
+        },
+        "description": "Quần chino dáng slim fit với vải co giãn thoải mái.",
+        "price": 500000,
+        "imageUrl": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=500&h=600&fit=crop",
+        "stockQuantity": 77,
+        "rating": 4.2,
+        "reviewCount": 39,
+        "reviews": [
+            {
+                "reviewId": "FR1015",
+                "productId": "F1015",
+                "userId": "U3015",
+                "userName": "Nguyễn Văn Tài",
+                "userAvatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=100&h=100&fit=crop",
+                "content": "Quần chino chất vải tốt, mặc thoải mái nhưng size hơi nhỏ.",
+                "rating": 4.0,
+                "date": "2024-03-22T14:00:00Z",
+                "images": [
+                    "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=500&h=600&fit=crop"
+                ],
+                "isVerifiedPurchase": true
+            }
+        ],
+        "isAvailable": true,
+        "tags": [
+            "chinos",
+            "menswear",
+            "pants",
+            "casual"
+        ],
+        "colors": [
+            "Beige",
+            "Navy",
+            "Grey"
+        ],
+        "waistSizes": [
+            "30",
+            "32",
+            "34",
+            "36"
+        ],
+        "images": [
+            "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=500&h=600&fit=crop",
+            "https://images.unsplash.com/photo-1593030103066-01c9cc0b6b38?w=500&h=600&fit=crop"
+        ],
+        "brand": "UrbanWear",
+        "manufacturer": "UrbanWear Co.",
+        "origin": "Pakistan",
+        "dimensions": null,
+        "weight": null,
+        "material": "Cotton & Elastane",
+        "videoUrl": null,
+        "barcode": "F100400015",
+        "productType": "Pants",
+        "returnPolicy": "30 days",
+        "discount": 20.0
+    },
+    {
+        "productId": "F1016",
+        "name": "Áo Cardigan Đan Len Nữ",
+        "category": {
+            "categoryId": "wm001",
+            "name": "Nữ",
+            "imageUrl": "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=400&h=300&fit=crop"
+        },
+        "description": "Áo cardigan đan len mềm mại với nút cài và túi.",
+        "price": 550000,
+        "imageUrl": "https://images.unsplash.com/photo-1571513722275-4b41940f54b8?w=500&h=600&fit=crop",
+        "stockQuantity": 88,
+        "rating": 4.6,
+        "reviewCount": 52,
+        "reviews": [
+            {
+                "reviewId": "FR1016",
+                "productId": "F1016",
+                "userId": "U3016",
+                "userName": "Trần Thị Ngọc",
+                "userAvatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop",
+                "content": "Cardigan rất ấm và thanh lịch, dễ phối đồ.",
+                "rating": 5.0,
+                "date": "2024-04-05T12:00:00Z",
+                "images": [
+                    "https://images.unsplash.com/photo-1571513722275-4b41940f54b8?w=500&h=600&fit=crop"
+                ],
+                "isVerifiedPurchase": true
+            }
+        ],
+        "isAvailable": true,
+        "tags": [
+            "cardigan",
+            "knitwear"
+        ],
+        "colors": [
+            "Cream",
+            "Pink",
+            "Grey"
+        ],
+        "clothingSizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "images": [
+            "https://images.unsplash.com/photo-1571513722275-4b41940f54b8?w=500&h=600&fit=crop",
+            "https://images.unsplash.com/photo-1601924994987-69e26d50dc26?w=500&h=600&fit=crop"
+        ],
+        "brand": "KnitStyle",
+        "manufacturer": "KnitStyle Fashion",
+        "origin": "Turkey",
+        "dimensions": null,
+        "weight": null,
+        "material": "Acrylic Blend",
+        "videoUrl": null,
+        "barcode": "F101200016",
+        "productType": "Cardigan",
+        "returnPolicy": "30 days return",
+        "discount": 10.0
+    },
+    {
+        "productId": "K1001",
+        "name": "Áo Thun Hoạt Hình Trẻ Em",
+        "category": {
+            "categoryId": "k001",
+            "name": "Trẻ Em",
+            "imageUrl": "https://images.unsplash.com/photo-1503944583220-79d8926ad5e2?w=400&h=300&fit=crop"
+        },
+        "description": "Áo thun in hình hoạt hình đầy màu sắc cho trẻ em, vải cotton mềm mại.",
+        "price": 150000,
+        "imageUrl": "https://images.unsplash.com/photo-1503944583220-79d8926ad5e2?w=500&h=500&fit=crop",
+        "stockQuantity": 200,
+        "rating": 4.5,
+        "reviewCount": 35,
+        "reviews": [
+            {
+                "reviewId": "FR1017",
+                "productId": "K1001",
+                "userId": "U3017",
+                "userName": "Nguyễn Thị Lan",
+                "userAvatar": "https://images.unsplash.com/photo-1517841903204-33b7b0c15939?w=100&h=100&fit=crop",
+                "content": "Áo thun rất đáng yêu, bé nhà mình thích lắm. Vải mềm, thoáng mát.",
+                "rating": 5.0,
+                "date": "2024-03-15T10:00:00Z",
+                "images": [
+                    "https://images.unsplash.com/photo-1503944583220-79d8926ad5e2?w=500&h=500&fit=crop"
+                ],
+                "isVerifiedPurchase": true
+            }
+        ],
+        "isAvailable": true,
+        "tags": [
+            "kids",
+            "t-shirt",
+            "cartoon",
+            "cotton"
+        ],
+        "colors": [
+            "Blue",
+            "Red",
+            "Yellow"
+        ],
+        "kidsSizes": [
+            "2T",
+            "3T",
+            "4T",
+            "5T"
+        ],
+        "images": [
+            "https://images.unsplash.com/photo-1503944583220-79d8926ad5e2?w=500&h=500&fit=crop",
+            "https://images.unsplash.com/photo-1622290291468-a28f7a7dc6a8?w=500&h=500&fit=crop"
+        ],
+        "brand": "KidsJoy",
+        "manufacturer": "KidsJoy Apparel",
+        "origin": "Vietnam",
+        "dimensions": null,
+        "weight": null,
+        "material": "100% Cotton",
+        "videoUrl": null,
+        "barcode": "K100100001",
+        "productType": "Kids T-Shirt",
+        "returnPolicy": "30 days",
+        "discount": 20.0
+    },
+    {
+        "productId": "B1001",
+        "name": "Kem Dưỡng Ẩm Da Mặt",
+        "category": {
+            "categoryId": "bt001",
+            "name": "Làm Đẹp",
+            "imageUrl": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=400&h=300&fit=crop"
+        },
+        "description": "Kem dưỡng ẩm da mặt với thành phần tự nhiên phù hợp cho mọi loại da.",
+        "price": 350000,
+        "imageUrl": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=500&h=500&fit=crop",
+        "stockQuantity": 150,
+        "rating": 4.7,
+        "reviewCount": 89,
+        "reviews": [
+            {
+                "reviewId": "FR1018",
+                "productId": "B1001",
+                "userId": "U3018",
+                "userName": "Phạm Thị Hương",
+                "userAvatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop",
+                "content": "Kem dưỡng ẩm rất tốt, thấm nhanh, không nhờn rít.",
+                "rating": 5.0,
+                "date": "2024-02-20T14:00:00Z",
+                "images": [
+                    "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=500&h=500&fit=crop"
+                ],
+                "isVerifiedPurchase": true
+            }
+        ],
+        "isAvailable": true,
+        "tags": [
+            "skincare",
+            "moisturizer",
+            "beauty",
+            "hydrating"
+        ],
+        "shades": [
+            "Natural"
+        ],
+        "volumes": [
+            "30ml",
+            "50ml",
+            "100ml"
+        ],
+        "images": [
+            "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=500&h=500&fit=crop",
+            "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=500&h=500&fit=crop"
+        ],
+        "brand": "GlowSkin",
+        "manufacturer": "GlowSkin Cosmetics",
+        "origin": "South Korea",
+        "dimensions": "5cm x 5cm x 8cm",
+        "weight": "80g",
+        "material": "Natural ingredients",
+        "videoUrl": null,
+        "barcode": "B100100001",
+        "productType": "Face Cream",
+        "returnPolicy": "14 days",
+        "discount": 15.0
+    },
+    {
+        "productId": "K1002",
+        "name": "Quần Yếm Denim Trẻ Em",
+        "category": {
+            "categoryId": "k001",
+            "name": "Trẻ Em",
+            "imageUrl": "https://images.unsplash.com/photo-1503944583220-79d8926ad5e2?w=400&h=300&fit=crop"
+        },
+        "description": "Quần yếm denim thoải mái với dây đeo điều chỉnh cho trẻ em đang lớn.",
+        "price": 300000,
+        "imageUrl": "https://images.unsplash.com/photo-1622290291468-a28f7a7dc6a8?w=500&h=600&fit=crop",
+        "stockQuantity": 80,
+        "rating": 4.3,
+        "reviewCount": 42,
+        "reviews": [
+            {
+                "reviewId": "FR1019",
+                "productId": "K1002",
+                "userId": "U3019",
+                "userName": "Lê Thị Mai",
+                "userAvatar": "https://images.unsplash.com/photo-1517841903204-33b7b0c15939?w=100&h=100&fit=crop",
+                "content": "Quần yếm đáng yêu, chất denim tốt, bé mặc rất thoải mái.",
+                "rating": 4.5,
+                "date": "2024-03-10T12:00:00Z",
+                "images": [
+                    "https://images.unsplash.com/photo-1622290291468-a28f7a7dc6a8?w=500&h=600&fit=crop"
+                ],
+                "isVerifiedPurchase": true
+            }
+        ],
+        "isAvailable": true,
+        "tags": [
+            "kids",
+            "overalls",
+            "denim",
+            "adjustable"
+        ],
+        "colors": [
+            "Light Blue",
+            "Dark Blue"
+        ],
+        "kidsSizes": [
+            "2T",
+            "3T",
+            "4T",
+            "5T",
+            "6T"
+        ],
+        "images": [
+            "https://images.unsplash.com/photo-1622290291468-a28f7a7dc6a8?w=500&h=600&fit=crop",
+            "https://images.unsplash.com/photo-1503944583220-79d8926ad5e2?w=500&h=600&fit=crop"
+        ],
+        "brand": "LittleStyle",
+        "manufacturer": "LittleStyle Kids",
+        "origin": "India",
+        "dimensions": null,
+        "weight": null,
+        "material": "100% Cotton Denim",
+        "videoUrl": null,
+        "barcode": "K100100002",
+        "productType": "Kids Overalls",
+        "returnPolicy": "30 days",
+        "discount": 25.0
+    },
+    {
+        "productId": "B1002",
+        "name": "Son Dưỡng Môi Tự Nhiên",
+        "category": {
+            "categoryId": "bt001",
+            "name": "Làm Đẹp",
+            "imageUrl": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=400&h=300&fit=crop"
+        },
+        "description": "Son dưỡng môi hữu cơ với bơ hạt mỡ và vitamin E cho đôi môi mịn màng.",
+        "price": 100000,
+        "imageUrl": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=500&h=500&fit=crop",
+        "stockQuantity": 300,
+        "rating": 4.6,
+        "reviewCount": 156,
+        "reviews": [
+            {
+                "reviewId": "FR1020",
+                "productId": "B1002",
+                "userId": "U3020",
+                "userName": "Trần Thị Ngọc",
+                "userAvatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop",
+                "content": "Son dưỡng môi rất tốt, dưỡng ẩm lâu, không gây khô môi.",
+                "rating": 5.0,
+                "date": "2024-02-15T11:00:00Z",
+                "images": [
+                    "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=500&h=500&fit=crop"
+                ],
+                "isVerifiedPurchase": true
+            }
+        ],
+        "isAvailable": true,
+        "tags": [
+            "lip care",
+            "organic",
+            "beauty",
+            "natural"
+        ],
+        "shades": [
+            "Clear",
+            "Tinted Pink",
+            "Natural Rose"
+        ],
+        "volumes": [
+            "4.2g",
+            "8.5g"
+        ],
+        "images": [
+            "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=500&h=500&fit=crop",
+            "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=500&h=500&fit=crop"
+        ],
+        "brand": "PureBeauty",
+        "manufacturer": "PureBeauty Organics",
+        "origin": "USA",
+        "dimensions": "2cm x 2cm x 6cm",
+        "weight": "15g",
+        "material": "Organic ingredients",
+        "videoUrl": null,
+        "barcode": "B100100002",
+        "productType": "Lip Balm",
+        "returnPolicy": "30 days",
+        "discount": 10.0
+    }
+]
