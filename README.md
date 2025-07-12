@@ -1,14 +1,4 @@
-<div align=**V-Store** is a c### 👤 **User Manag### 🎨 **Interface & UX**
-- 🌓 Dark/Light mode support
-- 🎯 Material Design 3.0
-- 📱 Responsive design for all screen sizes
-- ⚡ Smooth animations and transitions
-- 🌐 Multi-language support (VI/EN)*
-- 🔐 Multi-layer authentication (Email, OTP, Social Login)
-- 👥 Complete personal profile management
-- 📍 Multiple shipping address management
-- ❤️ Favorites and wishlist functionality
-- 🔔 Real-time notifications and updatesensive e-commerce application built with Flutter, delivering a modern and seamless shopping experience for users. The application integrates all essential features required for a professional e-commerce platform, from product management to payment processing.center">
+<div align="center">
   <h1>🛍️ V-Store - Modern E-commerce Platform</h1>
   <p><em>A comprehensive Flutter-based e-commerce solution with real-time backend integration</em></p>
   
@@ -19,7 +9,7 @@
 
 ## 📋 Overview
 
-**V-Store** là một ứng dụng thương mại điện tử toàn diện được phát triển bằng Flutter, mang đến trải nghiệm mua sắm hiện đại và mượt mà cho người dùng. Ứng dụng tích hợp đầy đủ các tính năng cần thiết cho một nền tảng e-commerce chuyên nghiệp, từ quản lý sản phẩm đến xử lý thanh toán.
+**V-Store** is a comprehensive e-commerce application built with Flutter, delivering a modern and seamless shopping experience for users. The application integrates all essential features required for a professional e-commerce platform, from product management to payment processing.
 
 ### 🎯 Project Goals
 - Create a modern and user-friendly online shopping platform
