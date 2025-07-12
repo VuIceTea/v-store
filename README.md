@@ -309,4 +309,4 @@ I welcome all contributions to improve V-Store!
 **Nguyen Phi Vu** - *Fullstack Developer*
 - 🐙 GitHub: [@VuIceTea](https://github.com/VuIceTea)
 - 📧 Email: zozotrong123456@gmail.com
-- 💼 LinkedIn: [Nguyen Phi Vu](www.linkedin.com/in/phi-vu-nguyen-8a18a5371)
+- 💼 LinkedIn: [Nguyen Phi Vu](https://www.linkedin.com/in/phi-vu-nguyen-8a18a5371/)
