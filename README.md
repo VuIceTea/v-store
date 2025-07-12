@@ -7,7 +7,7 @@
   [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
 </div>
 
-## 📋 Overview
+## 📋Project Overview
 
 **V-Store** is a comprehensive e-commerce application built with Flutter, delivering a modern and seamless shopping experience for users. The application integrates all essential features required for a professional e-commerce platform, from product management to payment processing.
 
@@ -27,12 +27,12 @@
 - ⭐ Detailed rating and review system
 - 📱 Responsive display across all devices
 
-### 👤 **Quản lý Người dùng**
-- 🔐 Xác thực đa lớp (Email, OTP, Social Login)
-- 👥 Quản lý hồ sơ cá nhân hoàn chỉnh
-- � Quản lý địa chỉ giao hàng multiple
-- ❤️ Danh sách yêu thích và wishlist
-- 🔔 Thông báo và cập nhật realtime
+### 👤 **User Management**
+- 🔐 Multi-factor authentication (Email, OTP Social Login)
+- 👥 Complete personal profile management
+- � Multiple shipping address management
+- ❤️ wishlist
+- 🔔 Realtime notifications and updates
 
 ### 🛍️ **Shopping Experience**
 - 🛒 Smart shopping cart with persistence
@@ -41,12 +41,12 @@
 - 📋 Detailed purchase history
 - 🚚 Automatic shipping cost calculation
 
-### 🎨 **Giao diện & UX**
+### 🎨 **UI & UX**
 - 🌓 Dark/Light mode support
 - 🎯 Material Design 3.0
 - 📱 Responsive design cho mọi screen size
 - ⚡ Smooth animations và transitions
-- � Hỗ trợ đa ngôn ngữ (VI/EN)
+- � Multi-language support (EN/EN)
 
 ## 🛠️ Technology & Architecture
 
@@ -236,7 +236,7 @@ flutter run --flavor prod --dart-define=ENV=production
 ```
 v_store/
 ├── lib/
-│   ├── 📱 screens/              # UI screens
+│   ├──   screens/              # UI screens
 │   │   ├── auth/               # Authentication (Login, Register, OTP)
 │   │   ├── home/               # Home and dashboard
 │   │   ├── product/            # Products (List, Detail, Search)
@@ -244,7 +244,7 @@ v_store/
 │   │   ├── profile/            # User profile
 │   │   └── order/              # Order management
 │   │
-│   ├── 🏗️ models/              # Data models
+│   ├──   models/              # Data models
 │   │   ├── user.dart           # User model
 │   │   ├── product.dart        # Product model  
 │   │   ├── cart.dart           # Cart model
@@ -257,23 +257,23 @@ v_store/
 │   │   ├── payment_service.dart # Payment processing
 │   │   └── firebase_service.dart # Firebase integration
 │   │
-│   ├── 🎨 widgets/             # Reusable UI components
+│   ├──   widgets/             # Reusable UI components
 │   │   ├── common/             # Common widgets
 │   │   ├── product/            # Product-specific widgets
 │   │   └── forms/              # Form components
 │   │
-│   ├── 🛠️ utils/              # Utility functions
+│   ├──   utils/              # Utility functions
 │   │   ├── constants.dart      # App constants
 │   │   ├── helpers.dart        # Helper functions
 │   │   ├── validators.dart     # Form validators
 │   │   └── extensions.dart     # Dart extensions
 │   │
-│   ├── ⚙️ config/             # Configuration files
+│   ├──   config/             # Configuration files
 │   │   ├── app_config.dart     # App configuration
 │   │   ├── theme.dart          # App theme
 │   │   └── routes.dart         # Route definitions
 │   │
-│   └── 📡 providers/          # State management
+│   └──   providers/          # State management
 │       ├── auth_provider.dart  # Authentication state
 │       ├── cart_provider.dart  # Cart state
 │       └── theme_provider.dart # Theme state
@@ -293,7 +293,7 @@ v_store/
 
 ## 🤝 Contributing
 
-We welcome all contributions to improve V-Store! 
+I welcome all contributions to improve V-Store! 
 
 ### 📝 Contribution Process
 
@@ -304,45 +304,9 @@ We welcome all contributions to improve V-Store!
 5. **Push** to the branch: `git push origin feature/amazing-feature`
 6. Create a **Pull Request**
 
-### 🐛 Bug Reports
-
-If you find a bug, please create an **Issue** with:
-- Detailed bug description
-- Steps to reproduce
-- Screenshots/videos if applicable
-- Environment information (OS, Flutter version, etc.)
-
-### 💡 Feature Requests
-
-Have a new idea? Create a **Feature Request** with:
-- Feature description
-- Rationale for the feature
-- Mockups/wireframes if available
-
-## 📄 License
-
-This project is distributed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
-
 ## 👨‍💻 Author
 
 **Nguyen Phi Vu** - *Fullstack Developer*
 - 🐙 GitHub: [@VuIceTea](https://github.com/VuIceTea)
-- 📧 Email: vuicetea@gmail.com
-- 💼 LinkedIn: [Nguyen Phi Vu](https://linkedin.com/in/vuicetea)
-
-## 🙏 Acknowledgments
-
-- [Flutter Team](https://flutter.dev) - Amazing cross-platform framework
-- [Firebase](https://firebase.google.com) - Comprehensive backend solution
-- [Material Design](https://material.io) - Beautiful design system
-- [VNPay](https://vnpay.vn) - Payment gateway integration
-- [Unsplash](https://unsplash.com) - Beautiful stock photos
-
----
-
-<div align="center">
-  <p><strong>⭐ If this project helps you, please give it a star! ⭐</strong></p>
-  <p><em>Built with ❤️ using Flutter</em></p>
-</div>
-
-
+- 📧 Email: zozotrong123456@gmail.com
+- 💼 LinkedIn: [Nguyen Phi Vu](www.linkedin.com/in/phi-vu-nguyen-8a18a5371)
