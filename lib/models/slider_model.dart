@@ -43,28 +43,28 @@ class SliderModel {
 
     SliderModel slide = SliderModel();
     slide.setId('1');
-    slide.setImages('assets/images/onboardingImgs/onboarding_1.png');
-    slide.setTitle('Choose Products');
+    slide.setImages('assets/images/onboardingImgs/onboarding_1.jpg');
+    slide.setTitle('Chọn sản phẩm yêu thích');
     slide.setDescription(
-      'Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.',
+      'Khám phá hàng trăm sản phẩm thời trang và mỹ phẩm chính hãng, phù hợp với phong cách riêng của bạn.',
     );
     slides.add(slide);
 
     slide = SliderModel();
     slide.setId('2');
-    slide.setImages('assets/images/onboardingImgs/onboarding_2.png');
-    slide.setTitle('Make Payment');
+    slide.setImages('assets/images/onboardingImgs/onboarding_2.jpg');
+    slide.setTitle('Thanh toán dễ dàng');
     slide.setDescription(
-      'Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.',
+      'Chọn phương thức thanh toán bạn muốn và hoàn tất đơn hàng chỉ trong vài bước đơn giản.',
     );
     slides.add(slide);
 
     slide = SliderModel();
     slide.setId('3');
-    slide.setImages('assets/images/onboardingImgs/onboarding_3.png');
-    slide.setTitle('Get Your Order');
+    slide.setImages('assets/images/onboardingImgs/onboarding_3.jpg');
+    slide.setTitle('Giao hàng nhanh chóng');
     slide.setDescription(
-      'Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.',
+      'Theo dõi và nhận sản phẩm nhanh chóng tại nhà — an toàn, tiện lợi và đúng hẹn.',
     );
     slides.add(slide);
     return slides;

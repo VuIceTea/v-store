@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:v_store/screens/onboarding_screen.dart';
 import 'package:v_store/widgets/slide_right_route.dart';
+import 'package:flutter/services.dart';
 
 class GetStarted extends StatefulWidget {
   const GetStarted({super.key});
@@ -10,6 +11,12 @@ class GetStarted extends StatefulWidget {
 }
 
 class _GetStarted extends State<GetStarted> {
+  @override
+  void initState() {
+    super.initState();
+    SystemChrome.setEnabledSystemUIMode(SystemUiMode.immersive);
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -21,19 +28,19 @@ class _GetStarted extends State<GetStarted> {
             right: 0,
             bottom: 0,
             child: Image.asset(
-              'assets/images/onboardingImgs/get_started.png',
+              'assets/images/onboardingImgs/get-started.jpg',
               fit: BoxFit.cover,
-              opacity: AlwaysStoppedAnimation(0.9),
+              opacity: AlwaysStoppedAnimation(0.7),
             ),
           ),
           Positioned(
-            top: 590,
+            top: 570,
             left: 0,
             right: 0,
             child: Padding(
               padding: const EdgeInsets.symmetric(horizontal: 40.0),
               child: Text(
-                'You want Authentic, here you go!',
+                'Muốn hàng chính hãng? V-Store luôn sẵn sàng!',
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   color: Colors.white,
@@ -45,19 +52,19 @@ class _GetStarted extends State<GetStarted> {
             ),
           ),
           Positioned(
-            top: 745,
+            top: 725,
             left: 0,
             right: 0,
             child: Padding(
               padding: const EdgeInsets.symmetric(horizontal: 40.0),
               child: Text(
-                'Find it here, buy it now!',
+                'Khám phá thế giới thời trang và mỹ phẩm chuẩn xịn, giá tốt, giao nhanh tận tay bạn.',
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   color: Color.fromRGBO(255, 255, 255, 1),
                   fontFamily: 'Montserrat',
-                  fontSize: 14,
-                  fontWeight: FontWeight.w400,
+                  fontSize: 15,
+                  fontWeight: FontWeight.w600,
                 ),
               ),
             ),
@@ -83,7 +90,7 @@ class _GetStarted extends State<GetStarted> {
                   ),
                 ),
                 child: Text(
-                  'Get Started',
+                  'Bắt đầu ngay',
                   style: TextStyle(
                     color: Colors.white,
                     fontFamily: 'Montserrat',

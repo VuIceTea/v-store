@@ -586,10 +586,10 @@ class _SignInState extends State<SignInScreen> with TickerProviderStateMixin {
                                           fontSize: 14,
                                           fontWeight: FontWeight.w500,
                                         ),
-                                        text: 'Bạn đã có tài khoản? ',
+                                        text: 'Bạn chưa có tài khoản? ',
                                         children: [
                                           TextSpan(
-                                            text: 'Đăng nhập',
+                                            text: 'Đăng ký ngay',
                                             style: TextStyle(
                                               color: Color(0xFF667eea),
                                               fontWeight: FontWeight.w700,
